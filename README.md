@@ -2,6 +2,7 @@
 ML project
 
 Project Summary:
+
 REQUIREMENTS:
 ABC Tech is an organisation operating in IT-enabled business segment over a decade. On an average ABC Tech receives 22-25k IT incidents/tickets, which are handled to best practice by ITIL framework with incident management, problem management, change management and configuration management processes. ABC Tech management is looking for ways to improve the incident management process as recent customer survey results shows that incident management is rated as poor. Machine learning looks prospective to improve ITSM processes through prediction and automation.
 
