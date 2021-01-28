@@ -1,5 +1,6 @@
 # ITSM--Ticket-Portal-Prediction
 ML project
+
 Project Summary:
 REQUIREMENTS:
 ABC Tech is an organisation operating in IT-enabled business segment over a decade. On an average ABC Tech receives 22-25k IT incidents/tickets, which are handled to best practice by ITIL framework with incident management, problem management, change management and configuration management processes. ABC Tech management is looking for ways to improve the incident management process as recent customer survey results shows that incident management is rated as poor. Machine learning looks prospective to improve ITSM processes through prediction and automation.
@@ -33,5 +34,6 @@ The following steps are carried out:
 3. Training the data using algorithms like Support Vector Machine, Decision Tree, Random Forest, K-Nearest Neighbor, XGBoost Classifier and Artificial Neural Network and            checking the accuracy to find out which algorithm is the best.
 4. Exporting the model with highest accuracy.
 5. For Incident Volume Forecasting, Ticket Opening Time is taken and Time Series Forecasting is used.
+
 RESULTS:
 For predicting Ticket Priority, Random Forest gives almost 98.5% accuracy. Predicting RFC accurately is not possible with this data. And Volume Forecasting is visualized with the help of Matplotlib throughout the year.
